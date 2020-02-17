@@ -18,11 +18,11 @@ const routes = [
         path: '1-1',
         name: '1-1',
         component: () => import('../views/note1a')
-      },
-      {
-        path: '/home',
-        component: () => import('../views/home/home')
       }
+      // {
+      //   path: '/home',
+      //   component: () => import('../views/home/home')
+      // }
     ]
   }
 ]
