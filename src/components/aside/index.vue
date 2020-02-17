@@ -42,7 +42,7 @@
       </el-submenu>
     </el-menu>
     <el-row class="btn-close">
-        <i class="el-icon-d-arrow-left" @click="$router.push('/home')"></i>
+        <i class="el-icon-d-arrow-left" @click="$router.push('/')"></i>
     </el-row>
   </div>
 </template>
